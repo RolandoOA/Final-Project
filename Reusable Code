@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>The Link</title>
+    <!--
+	   The Link social media main page
+	    Filename: The Link.html
+	    Author: Rolando Ortega 
+	    Date: 2/13/2019
+	 -->
+	
+	 <meta charset="utf-8">
+	 <meta name="viewport" content="width=device-width">
+     <script src="modernizr.custom.62074.js"></script>
+     <link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet"type='text/css'>
+     <link href="style.css" rel="stylesheet" type="text/css" /> 
+     <link rel="shortcut icon" href="images/favicon.ico">
+     <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+     <link rel="icon" sizes="192*192" href="images/android.png">
+</head>
+<body>
+	<div class="container">
+	<p class="skipnavigation"><a href="#contentstart">Skip navigation</a></p> 
+	<p> Let's get connected </p>
+   <header>
+   	</nav>
+	<article>
+    <p id="contentstart">
+	<div>
